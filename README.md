@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://resumekraft.com/wp-content/uploads/2021/08/Information-Technology-linkedin-background-photo-2.jpg" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Aryan, a MERN stack developer 👨‍💻 working remotely 🚀</div>  
+### <div align="center"><h1>Hey Mate 👋 , I'm Aryan👨‍💻 <h1/></div>  
   
 
 - 🔭 I’m currently contributing to Open Source Projects
@@ -24,6 +24,10 @@
 
 <br/>  
 
+<div>
+<img src="https://komarev.com/ghpvc/?username=aryanvarma7272&&style=flat-square" align="center" />
+</div>  
+<br/>
 
 ## My Skill Set  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -35,8 +39,7 @@
 
 ## Connect with me  
 <div align="center">
-<br/>
-<br/>
+  <p>I love networking with people🧡 and I am therefore very active on these professional social media platforms like LinkedIn and Twitter.</p>
 <a href="https://github.com/aryanvarma7272" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -60,15 +63,8 @@
 <br/>  
 
 
-## Views 
-  
-<br/>   
+ 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=aryanvarma7272&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>  
 
 
