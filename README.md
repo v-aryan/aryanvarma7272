@@ -5,9 +5,7 @@
 
 ### <div align="center"><h1>Hey Mate 👋 , I'm Aryan👨‍💻 <h1/></div>  
   
-
 - 🔭 I’m currently contributing to Open Source Projects
-  
   
 
 - 🦾 I’m looking for Internships opportunities  
@@ -21,7 +19,7 @@
 
 - 🌟 Hobbies : Bug Bounty Hunter , Swimming , Reading Books  
   
-
+  
 <br/>  
 
 <div>
@@ -59,12 +57,7 @@
 <br/> 
 <br/> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aryanvarma7272&show_icons=true&count_private=true&hide_border=true" style="background-color:#33475b" align="center" /></div>  
-
-<br/>  
-
-
- 
-
-
+  <br/>
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvarma7272&hide_border=true&layout=compact"  style="background-color:#33475b" align="center" /></div> 
 
 
