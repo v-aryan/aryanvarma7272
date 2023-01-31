@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center"><h1>Hey Mate 👋 , I'm Aryan👨‍💻 <h1/></div>  
+### <div align="center"><h1>Hey there👋 , I'm Aryan👨‍💻 <h1/></div>  
   
 - 🔭 I’m currently contributing to Open Source Projects
   
