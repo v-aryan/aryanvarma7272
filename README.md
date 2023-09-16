@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://wallpaperaccess.com/full/3414990.jpg" width="50%"  />
-</div>  
+
   
 
 ### <div align="center"><h1>Hey there👋 , I'm Aryan👨‍💻 <h1/></div>  
