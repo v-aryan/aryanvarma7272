@@ -49,13 +49,3 @@
   
 
 <br/>  
-
-
-## Github Stats  
-<br/> 
-<br/> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aryanvarma7272&show_icons=true&count_private=true&hide_border=true" style="background-color:#33475b" align="center" /></div>  
-  <br/>
-  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvarma7272&hide_border=true&layout=compact"  style="background-color:#33475b" align="center" /></div> 
-
-
